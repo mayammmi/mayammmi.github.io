@@ -117,13 +117,13 @@ h1 {
 
 .experiencia .columna:hover {
   color: white;
-  background-color: #1b1b32;
+  background-color: #a1bd34;
 }
 
 .experiencia i {
   font-size: 2.5rem;
-  color: #7ade30;
-  background-color: #0a0a23;
+  color: #584e4e;
+  background-color: #89a02c;
   padding: 8px 19px;
   border-radius: 50%;
 }
@@ -236,7 +236,7 @@ h1 {
   max-width: 70%;
   font-size: 20px;
   text-align: center;
-  font-family: 'Share Tech Mono', monospace;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .testimonio-info {
@@ -349,7 +349,7 @@ footer {
 
 .iconos-redes-sociales a:hover {
   background-color: white;
-  border: 2px solid rgb(13, 110, 253);
+  border: 4px solid #c57411;
 }
 
 .iconos-redes-sociales a:hover i {
@@ -358,7 +358,7 @@ footer {
 
 .derechos-de-autor {
   font-size: 15px;
-  color: #aeaeae;
+  color: #e5e5b6;
   padding: 20px;
 }
 
